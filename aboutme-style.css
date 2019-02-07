@@ -1,0 +1,18 @@
+body{
+	background-color: #333;
+}
+h1{
+	color: violet;
+	font-family: Verdana ;
+	text-align: center;
+}
+h2{
+color:#3cb371;
+font-family: Orange;
+text-align: center;
+}
+h3{
+	color:#6a5acd;
+	font-family: SlateBlue;
+	text-align: center;
+}
